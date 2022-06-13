@@ -1,0 +1,29 @@
+body{
+    font-weight: bold;
+}
+.hideName {
+    display: none;
+}
+
+[data-age='6'] {
+    color: red;
+}
+.span{
+    color: red;
+}
+ul li{
+    list-style-type: none;
+    cursor: pointer;
+}
+ul li:hover{
+    color: rgb(255, 0, 0);
+}
+#ulList span {
+    margin: 20px;
+}
+#timer{
+    margin-left: 70px;
+}
+.colorRed{
+    color: red;
+}
